@@ -1,2 +1,2 @@
-# TrabajoFinalM-ster
+# TrabajoFinalMaster
 Trabajo final del máster
